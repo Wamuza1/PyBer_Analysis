@@ -59,3 +59,8 @@ Further we removed the index name("type") and formated the Pyber summary DataFra
 
 <img width="312" alt="Screen Shot 2022-05-15 at 11 04 10 PM" src="https://user-images.githubusercontent.com/92646311/168513050-f671ac89-474c-442e-bce3-26aea03ac5c2.png">
 
+• A multiple-line chart is created based on total fares for each city.
+
+<img width="970" alt="Screen Shot 2022-05-15 at 11 11 04 PM" src="https://user-images.githubusercontent.com/92646311/168513623-a13e0a63-c664-4777-a33c-eeab1a85b2fb.png">
+
+
