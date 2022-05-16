@@ -75,6 +75,6 @@ Further we removed the index name("type") and formated the Pyber summary DataFra
 
 2. Hiring more drivers in rural and sububan cities may  will also helpful to increase the business in each city types.
 
-3. Increasing a slight rise in fare rates in rural and suburban cities will help to generate company revenue 
+3. It will be helpful to survey other factors such as other transportation services provied in these city types. Increasing a slight rise in fare rates in rural and suburban cities will help to generate company revenue. 
 
 
