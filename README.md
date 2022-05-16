@@ -68,5 +68,12 @@ Further we removed the index name("type") and formated the Pyber summary DataFra
 2. Rural and urban cities have an increased is april whereas suburban cities have increased in end of april. 
 3. Urban city has more volume in rides, drivers and fares compared to rural and suburban cities.
 
+# Provide three business recommendations to the CEO 
 
+1.Based on the graph and analysis, we can predict that we can generate more money in rural and suburban cities by offering  various promotions to enhance new and existing cutomers.
+
+2. Hiring more drivers in rural and sububan cities may  will also helpful to increase the business in each city types.
+
+3. Increasing a slight rise in fare rates in rural and suburban cities will help to generate company revenue 
+2. Hiring more drivers in rural and sububan cities may  will also helpful to increase the business in each city types..
 
