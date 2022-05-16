@@ -40,8 +40,22 @@ Urban       16.571468
 
 ## PyBer summary DataFrame is created.
 
-/Users/wmza/Desktop/Screen Shot 2022-05-15 at 10.44.06 PM.png
+<img width="687" alt="Screen Shot 2022-05-15 at 10 44 06 PM" src="https://user-images.githubusercontent.com/92646311/168512336-0a7d4124-9209-435a-a5ad-e7a022b6d5b8.png">
+
 
 Further we removed the index name("type") and formated the Pyber summary DataFrame to look like this:
 
-/Users/wmza/Desktop/Screen Shot 2022-05-15 at 10.45.27 PM.png
+<img width="935" alt="Screen Shot 2022-05-15 at 10 45 27 PM" src="https://user-images.githubusercontent.com/92646311/168512350-661ec3bc-98d4-48b7-ac77-51c8336bda24.png">
+
+• Using groupby() we create a new DataFrame showing the sum of the fares for each date where the indices are the city type and date
+
+<img width="583" alt="Screen Shot 2022-05-15 at 10 57 48 PM" src="https://user-images.githubusercontent.com/92646311/168512458-3ad4fa8a-0723-496c-98aa-70fac505a29f.png">
+
+• After reseting the index on the DataFrame:
+
+<img width="583" alt="Screen Shot 2022-05-15 at 10 57 48 PM" src="https://user-images.githubusercontent.com/92646311/168512587-0f6ab37f-45ea-4b70-9f46-f92cab3fa5e8.png">
+
+•  Created a new DataFrame from the pivot table DataFrame using loc on the given dates, and using the "resample()" function by week 'W' and get the sum of the fares for each week.
+
+<img width="312" alt="Screen Shot 2022-05-15 at 11 04 10 PM" src="https://user-images.githubusercontent.com/92646311/168513050-f671ac89-474c-442e-bce3-26aea03ac5c2.png">
+
