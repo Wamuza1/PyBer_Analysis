@@ -21,20 +21,20 @@ Urban       1625
 •    The total drivers for each city type:
 Rural         78
 Suburban     490
-Urban       2405
+Urban       2405 have more drivers.
 
 •     The total amount of fares for each city type:
 Rural        4327.93
 Suburban    19356.33
-Urban       39854.38
+Urban       39854.38 have more fares.
 
 •    The average fare per ride for each city type:
-Rural       34.623440
+Rural       34.623440 have high average compared to 
 Suburban    30.970128
 Urban       24.525772
 
 •    The average fare per driver for each city type.
-Rural       55.486282
+Rural       55.486282 have also high average, whereas
 Suburban    39.502714
 Urban       16.571468
 
@@ -46,6 +46,7 @@ Urban       16.571468
 Further we removed the index name("type") and formated the Pyber summary DataFrame to look like this:
 
 <img width="935" alt="Screen Shot 2022-05-15 at 10 45 27 PM" src="https://user-images.githubusercontent.com/92646311/168512350-661ec3bc-98d4-48b7-ac77-51c8336bda24.png">
+
 
 • Using groupby() we create a new DataFrame showing the sum of the fares for each date where the indices are the city type and date
 
