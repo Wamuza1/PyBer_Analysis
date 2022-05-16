@@ -63,4 +63,9 @@ Further we removed the index name("type") and formated the Pyber summary DataFra
 
 <img width="970" alt="Screen Shot 2022-05-15 at 11 11 04 PM" src="https://user-images.githubusercontent.com/92646311/168513623-a13e0a63-c664-4777-a33c-eeab1a85b2fb.png">
 
+1. End of the Febrauary is high point for each three city types. 
+2. Rural and urban cities have an increased is april whereas suburban cities have increased in end of april. 
+3. Urban city has more volume in rides, drivers and fares compared to rural and suburban cities.
+
+
 
