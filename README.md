@@ -1,5 +1,6 @@
 # PyBer_Analysis
-PyBer Analysis with Python, Pandas, Matplotlib.
+
+Using Matplotlib created line, bar, scatter, bubble, pie, and box-and-whisker plots .Also, determine mean, median, and mode using Pandas, NumPy, and SciPy.
 
 # Overview of the analysis:
 
